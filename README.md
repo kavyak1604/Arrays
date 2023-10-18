@@ -10,7 +10,7 @@ An array can have multiple dimensions.
 The number of elements in an array can be determined using the sizeof operator.
 We can find the size of the type of elements stored in an array by subtracting adjacent addresses.
 In C++, we can declare an array by simply specifying the data type first and then the name of an array with its size.
-data_type array_name[Size_of_array];
+Data_type array_name[Size_of_array];
 
 
 
