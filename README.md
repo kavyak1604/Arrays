@@ -15,7 +15,7 @@ Data_type array_name[Size_of_array];
 
 
 ## Algorithm
-a)
+a)for searching through an array<br>
 1)Set the initial value of the integer variable n to the array's size.<br>
 2)Request that the user input the array's size and read it into n.<br>
 3)Create a size-n integer array called a to hold the input elements.<br>
@@ -24,14 +24,9 @@ a)
 6)Use the outer loop to iterate through each entry in the array (variable i).<br>
 
 
-## Demo
-
-
-
 
 ### Conclusion
-
-List any software, libraries, or hardware requirements users need before they can use your project. 
+Hence in this repository
 
 
 
