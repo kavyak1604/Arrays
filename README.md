@@ -3,7 +3,7 @@
 In C++, an array is a data structure that is used to store multiple values of similar data types in a contiguous memory location.<br>
 A string is a data type used in programming, that is used to represent text rather than numbers. A string is a sequence of characters and can contain letters, numbers, symbols and even spaces. It must be enclosed in quotation marks for it to be recognized as a string.
 
-## About
+## THEORY
 Arrays:<br>
 Indexing of an array starts from 0. It means the first element is stored at the 0th index, the second at 1st, and so on.
 Elements of an array can be accessed using their indices.Once an array is declared its size remains constant throughout the program.
