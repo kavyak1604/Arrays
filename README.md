@@ -16,12 +16,12 @@ Data_type array_name[Size_of_array];
 
 ## Algorithm
 a)
-1)Set the initial value of the integer variable n to the array's size.
-2)Request that the user input the array's size and read it into n.
-3)Create a size-n integer array called a to hold the input elements.
-4)Request n integer entries from the user, then store them in the array a.
-5)To sort the array an in ascending order, use a bubble sort:
-6)Use the outer loop to iterate through each entry in the array (variable i).
+1)Set the initial value of the integer variable n to the array's size.<br>
+2)Request that the user input the array's size and read it into n.<br>
+3)Create a size-n integer array called a to hold the input elements.<br>
+4)Request n integer entries from the user, then store them in the array a.<br>
+5)To sort the array an in ascending order, use a bubble sort:<br>
+6)Use the outer loop to iterate through each entry in the array (variable i).<br>
 
 
 ## Demo
