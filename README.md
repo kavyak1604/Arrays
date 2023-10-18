@@ -26,11 +26,8 @@ List the key features of your project.
 
 
 
-## Getting Started
 
-Guide users through the process of setting up and running your project.
-
-### Prerequisites
+### Conclusion
 
 List any software, libraries, or hardware requirements users need before they can use your project. 
 
