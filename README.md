@@ -21,14 +21,14 @@ It can be declared as char greeting[] = " ";
 
 
 ## Algorithm
-a)for searching through an array<br>
+a)FOR SEARCHING AN ARRAY:<br>
 1)Set the initial value of the integer variable n to the array's size.<br>
 2)Request that the user input the array's size and read it into n.<br>
 3)Create a size-n integer array called a to hold the input elements.<br>
 4)Request n integer entries from the user, then store them in the array a.<br>
 5)To sort the array an in ascending order, use a bubble sort:<br>
 6)Use the outer loop to iterate through each entry in the array (variable i).<br>
-b)using string functions<br>
+b)USING STRING FUNCTIONS:<br>
 1)i (integer) to store the length of the first string.<br>
 2)x (integer) to store the length of the concatenated string.<br>
 3)str1 and str2 (strings) to store user-entered strings.<br>
