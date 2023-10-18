@@ -28,6 +28,17 @@ a)for searching through an array<br>
 4)Request n integer entries from the user, then store them in the array a.<br>
 5)To sort the array an in ascending order, use a bubble sort:<br>
 6)Use the outer loop to iterate through each entry in the array (variable i).<br>
+b)using string functions<br>
+1)i (integer) to store the length of the first string.<br>
+2)x (integer) to store the length of the concatenated string.<br>
+3)str1 and str2 (strings) to store user-entered strings.<br>
+4)strc (string) to store the concatenated result.<br>
+5)Read the first string input from the user and store it in the str1 variable.<br>
+6)Display the length of str1 to the user.<br>
+7)Display a prompt to the user: "Enter the second string-".<br>
+8)Read the second string input from the user and store it in the str2 variable.<br>
+9)Concatenate str1 and str2 using the + operator and store the result in the strc variable.<br>
+10)If str1 is equal to str2, display "Strings are equal."Otherwise, display "Strings are not equal.<br>
 
 
 
